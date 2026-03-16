@@ -1,0 +1,14 @@
+body{
+	background-color: white
+}
+
+img {
+	display: block;
+	width: 35px;
+	height: 25px;
+}
+
+.texto-debajo{
+	font-weight: bold;
+}
+
